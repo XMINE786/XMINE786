@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aakash Hussain.
 ======================================================================================================================================
 
-Flutter developer
+Flutter Developer
 -----------------
 
 With 3 years of Flutter experience, I excel in crafting robust, user-friendly mobile apps. Proficient in widget composition, state management, and UI/UX principles, I ensure seamless app performance and cross-platform compatibility. Passionate about innovation, I stay updated with Flutter advancements to deliver cutting-edge solutions.
